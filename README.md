@@ -1,5 +1,5 @@
-# CiD-Spoofer
-Caller ID Spoofer &amp; Flooder Simulation Project! These are not meant to be used to cause damage nor to be used in any illegal way, and only to be used in a controlled environment!
+# CiD-Research
+Caller ID Spoofer & Flooder Simulation Project! These are not meant to be used to cause damage nor to be used in any illegal way, and only to be used in a controlled environment!
 
 All these scripts are configured to run on an Asterisk 18 & Freepbx Install!
 
